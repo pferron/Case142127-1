@@ -31,7 +31,8 @@
   },
   "remediateSettings": {
     "workflowRules": {
-      "enabled": true
+      "enabled": true,
+      "minVulnerabilitySeverity": "HIGH"
     }
   },
    "imageSettings":{
